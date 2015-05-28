@@ -638,3 +638,12 @@
 }
 
 /* No CSS3 support: none */
+
+.test {
+
+	border: 1px solid #000000;
+	white-space: nowrap;
+	overflow: hidden;
+
+
+}
